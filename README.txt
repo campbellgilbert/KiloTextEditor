@@ -14,3 +14,6 @@ Instructions on how to run:
 5) Checkout the most recent branch (to your repository of choice): "git checkout" 
 6) Compile: "make" (or, if that doesn't work, try "cc kilo.c -o kilo"
 7) Run: "./kilo" and hit "enter". Have fun!
+
+
+I have completed the homework; this is the completed homework file, for demo purposes. Blah blah blah blah blah. 
